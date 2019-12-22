@@ -1,4 +1,4 @@
-## Nguyễn Thế Vinh - 200167446 - HEDSPI - HUST
+Phạm Hải Anh - 20160212
 
 # Ruby on Rails Tutorial sample application
 
